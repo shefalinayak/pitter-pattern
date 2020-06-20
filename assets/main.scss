@@ -1,0 +1,43 @@
+---
+---
+
+html,
+body {
+  margin: auto;
+  max-width: 1000px;
+  height: 100%;
+  background: white;
+  font-family: "Roboto", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 0.8em;
+}
+
+a {
+  transition: background-color 0.2s linear;
+  -webkit-transition: background-color 0.2s linear;
+  -moz-transition: background-color 0.2s linear;
+  
+  text-decoration: none;
+  background-color: lavender;
+  color: black;
+
+  &:hover {
+    background-color: lightsteelblue;
+  }
+}
