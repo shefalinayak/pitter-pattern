@@ -21,8 +21,8 @@ The Japanese name 麻の葉 (asa no ha) translates to hemp leaf. The pattern was
 
 ## Construction
 
-![asanoha with overlapping leaves highlighted](/assets/images/asanoha.png)
+![asanoha with overlapping leaves highlighted]({{ '/assets/images/asanoha.png' | relative_url }})
 
 ## Examples
 
-![asanoha paper stencil, MET37.14.41](/assets/images/asanoha_MET37.14.41.jpg)
+![asanoha paper stencil, MET37.14.41]({{ '/assets/images/asanoha_MET37.14.41.jpg' | relative_url }})

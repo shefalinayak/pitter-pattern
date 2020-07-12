@@ -24,11 +24,11 @@ Sayagata is the Japanese name, which likely comes from the cloth on which the pa
 
 ## Construction
 
-![asanoha lines on square grid](/assets/images/sayagata_lines.png)
-![asanoha filled shapes](/assets/images/sayagata_filled.png)
-![asanoha filled shapes](/assets/images/sayagata_swastika.png)
+![asanoha lines on square grid]({{ '/assets/images/sayagata_lines.png' | relative_url }})
+![asanoha filled shapes]({{ '/assets/images/sayagata_filled.png' | relative_url }})
+![asanoha filled shapes]({{ '/assets/images/sayagata_swastika.png' | relative_url }})
 
 ## Examples
 
-![vase with sayagata, MET93.3.111](/assets/images/sayagata_vase_MET93.3.111.jpg)
-![round box with expanding sayagata pattern](/assets/images/sayagata_round_box_MET14.40.150.jpg)
+![vase with sayagata, MET93.3.111]({{ '/assets/images/sayagata_vase_MET93.3.111.jpg' | relative_url }})
+![round box with expanding sayagata pattern]({{ '/assets/images/sayagata_round_box_MET14.40.150.jpg' | relative_url }})

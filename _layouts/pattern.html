@@ -13,7 +13,7 @@
   <ul>
     {% for source in page.sources %}
     <li>
-      <a href="{{source.url}}">
+      <a href="{{ source.url | relative_url }}">
         {{ source.name }}
       </a>
     </li>

@@ -9,7 +9,7 @@ title: Catalog of Geometric Patterns
   and generating code.
 </p>
 {% for pattern in site.patterns %}
-  <a aria-label="{{pattern.title}}" href="{{pattern.url}}">
+  <a aria-label="{{pattern.title}}" href="{{ pattern.url | relative_url }}">
     <img class="pattern-thumbnail" src="{{pattern.thumbnail}}" />
   </a>
 {% endfor %}
