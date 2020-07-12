@@ -1,0 +1,23 @@
+{% include header.html %}
+<article class="pattern">
+  <header>
+    <h2>
+      {{ page.title }}
+    </h2>
+  </header>
+  <p class="pattern-description">
+    {{ page.description }}
+  </p>
+  {{ content }}
+  <h2>Sources</h2>
+  <ul>
+    {% for source in page.sources %}
+    <li>
+      <a href="{{source.url}}">
+        {{ source.name }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</article>
+{% include footer.html %}

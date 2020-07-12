@@ -42,8 +42,11 @@ a {
   }
 }
 
-canvas {
+img {
+  max-width: 80%;
+  max-height: 300px;
+}
+
+.pattern-thumbnail {
   height: 300px;
-  width: 600px;
-  border: 1px solid thistle;
 }

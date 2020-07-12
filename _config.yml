@@ -1,0 +1,13 @@
+collections:
+  patterns:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "patterns"
+    values:
+      layout: "pattern"
+
+exclude:
+  - research/notes.md
